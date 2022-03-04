@@ -1,0 +1,6 @@
+Despite having relatively easy DIP operations to implement, this project had its own set of difficulties that were different from Assignment 2. Most notably was the
+decomposition of the program - it makes sense why that portion of the assignment is worth the most because it was quite novel for me. Of course I knew that large programs
+are composed of multiple files but I didnt know how they interact with eachother until now, so it was a really good learning experience. Im not sure how the "clean" function
+works in the makefile. Im also not sure why my DEBUG macro started working and then just suddenly decided to stop working even though I'm sure I didnt modify anything. 
+Im certain that I implemented at least the AutoTest print statements correctly, even though I wasnt able to stop the PrintMenu() from printing in the Debug mode. 
+If I had more time and were better with managing my workload, I would have attempted the MotionBlur function for sure. 
